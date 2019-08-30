@@ -1,6 +1,6 @@
 <template>
   <div class="banner">
-    <video autoplay="autoplay" muted="muted" loop="loop"><source src="~assets/cocktails.mp4" type="video/mp4"></video>
+    <video autoplay="autoplay" muted="muted" loop="loop"><source src="~assets/cocktail-video.mp4" type="video/mp4"></video>
   </div>
 </template>
 
